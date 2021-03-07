@@ -1,0 +1,7 @@
+{
+    "title": "DeSmuME",
+    "subtitle": "Nintendo DS",
+    "description": "DeSmuME es el emulador mas completo de Nintendo DS. Es muy bueno emulando todo tipo de juegos.",
+    "website": "http://desmume.org/",
+    "download": "https://ci.appveyor.com/project/zeromus/desmume/build/artifacts"
+}

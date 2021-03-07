@@ -1,9 +1,7 @@
 {
-    "title": "NO$GBA 3.03",
+    "title": "NO$GBA",
     "subtitle": "Game Boy Advance & Nintendo DS",
-    "screenshot": "nocashgba_screenshot.png",
     "description": "NO$GBA es el emulador mas rápido de Nintendo DS. Es muy bueno en PC de pocos recursos.",
-    "download": "https://problemkaputt.de/no$gba-w.zip",
     "website": "https://problemkaputt.de/gba.htm",
-    "icon": "nocashgba_icon.png"
+    "download": "https://problemkaputt.de/no$gba-w.zip"
 }

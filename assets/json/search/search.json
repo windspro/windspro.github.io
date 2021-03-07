@@ -1,0 +1,12 @@
+[
+    {
+        "title": "DeSmuME",
+        "route": "desmume",
+        "tags": ["nintendo ds", "nds"]
+    },
+    {
+        "title": "NO$GBA",
+        "route": "nocashgba",
+        "tags": ["game boy advance", "nintendo ds", "gba", "nds"]
+    }
+]
